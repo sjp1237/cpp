@@ -1,0 +1,7 @@
+﻿  Queue.c
+D:\2021\Queue\Queue.c(18,41): warning C4013: “malloc”未定义；假设外部返回 int
+D:\2021\Queue\Queue.c(22,7): warning C4013: “exit”未定义；假设外部返回 int
+D:\2021\Queue\Queue.c(43,7): warning C4013: “free”未定义；假设外部返回 int
+D:\2021\Queue\Queue.c(50,2): warning C4047: “函数”:“Queue *”与“Queue **”的间接级别不同
+D:\2021\Queue\Queue.c(50,2): warning C4024: “QueueEmpty”: 形参和实参 1 的类型不同
+  Queue.vcxproj -> D:\2021\Queue\Debug\Queue.exe
