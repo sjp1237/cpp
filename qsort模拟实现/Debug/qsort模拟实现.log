@@ -1,0 +1,8 @@
+﻿  qsort.c
+D:\2021\qsort模拟实现\qsort.c(10,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\2021\qsort模拟实现\qsort.c(20,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\2021\qsort模拟实现\qsort.c(32,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\2021\qsort模拟实现\qsort.c(34,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\2021\qsort模拟实现\qsort.c(71,11): warning C4047: “函数”:“int **”与“person [3]”的间接级别不同
+D:\2021\qsort模拟实现\qsort.c(71,8): warning C4024: “Print”: 形参和实参 1 的类型不同
+  qsort模拟实现.vcxproj -> D:\2021\qsort模拟实现\Debug\qsort模拟实现.exe
