@@ -1,0 +1,18 @@
+﻿  test.cpp
+D:\2021\AVLtree.cpp\AVLtree.h(291,14): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\2021\AVLtree.cpp\AVLtree.h(263): message : 在编译 类 模板 成员函数“bool AVLTree<int,int>::erase(const K &)”时
+          with
+          [
+              K=int
+          ]
+D:\2021\AVLtree.cpp\test.cpp(14): message : 查看对正在编译的函数 模板 实例化“bool AVLTree<int,int>::erase(const K &)”的引用
+          with
+          [
+              K=int
+          ]
+D:\2021\AVLtree.cpp\test.cpp(8): message : 查看对正在编译的 类 模板 实例化“AVLTree<int,int>”的引用
+D:\2021\AVLtree.cpp\AVLtree.h(333,8): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\2021\AVLtree.cpp\AVLtree.h(359,8): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\2021\AVLtree.cpp\AVLtree.h(136): warning C4715: “AVLTree<int,int>::insert”: 不是所有的控件路径都返回值
+D:\2021\AVLtree.cpp\AVLtree.h(433): warning C4715: “AVLTree<int,int>::erase”: 不是所有的控件路径都返回值
+  AVLtree.cpp.vcxproj -> D:\2021\AVLtree.cpp\Debug\AVLtree.cpp.exe
