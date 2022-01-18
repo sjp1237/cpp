@@ -1,0 +1,5 @@
+﻿  contact.c
+D:\2021\动态通讯录\contact.c(323,11): warning C4098: “SaveContact”:“void”函数返回值
+  test.c
+  正在生成代码...
+  动态通讯录.vcxproj -> D:\2021\动态通讯录\Debug\动态通讯录.exe
