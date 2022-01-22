@@ -1,0 +1,8 @@
+﻿  SeqList.c
+D:\2021\2021.4.1顺序表\SeqList.c(14,6): warning C4013: “free”未定义；假设外部返回 int
+D:\2021\2021.4.1顺序表\SeqList.c(24,22): warning C4013: “realloc”未定义；假设外部返回 int
+D:\2021\2021.4.1顺序表\SeqList.c(28,8): warning C4013: “exit”未定义；假设外部返回 int
+D:\2021\2021.4.1顺序表\SeqList.c(24,1): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  test.c
+  正在生成代码...
+  2021.4.1顺序表.vcxproj -> D:\2021\2021.4.1顺序表\Debug\2021.4.1顺序表.exe
